@@ -7,8 +7,8 @@ addDataCurrent()
 addData()
 cityInput.value = ''
 
-
 //funcion para llamar a la API
+
 async function fetchWeather(api) {
     const KEY = '97504058ed37ccbca2078e82e0c550c6';
     try {
